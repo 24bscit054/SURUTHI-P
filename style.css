@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple CSS Example</title>
+<style>
+/* Body styling */
+body {
+background-color: #f0f8ff; /* Light blue background */
+font-family: Arial, sans-serif;
+text-align: center;
+margin-top: 50px;
+}
+
+/* Heading style */
+h1 {
+color: darkblue;
+}
+
+/* Paragraph style */
+p {
+color: #333;
+font-size: 18px;
+}
+
+/* Button style */
+button {
+background-color: #4CAF50; /* Green */
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 16px;
+}
+
+/* Button hover effect */
+button:hover {
+background-color: #45a049; /* Darker green */
+}
+</style>
+</head>
+<body>
+<h1>Welcome to CSS Example</h1>
+<p>This is a simple webpage styled with CSS.</p>
+<button>Click Me</button>
+</body>
+</html>
